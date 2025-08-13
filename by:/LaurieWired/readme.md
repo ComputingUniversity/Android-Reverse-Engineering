@@ -22,6 +22,7 @@ Her videos "oldest first" are all Android reverse engineering.
 - [Finding the Entrypoint of iOS Apps in Ghidra](https://youtu.be/mLDsIMXafP4)
 - [Ghidra Scripting to Speed Up Reverse Engineering](https://youtu.be/z7SO6CF3guE)
 - [Ghidra Analysis of Android Native Code](https://youtu.be/ODWBEtZHB6Q)
+- [Beautifying Native Android Code in Ghidra](https://youtu.be/sK_jsQ5bJUk)
 
 # topic: Decompiling
 - [Do This When Your Android Decompiler Fails](https://youtu.be/2Cs7nZcTeTk)
@@ -33,6 +34,8 @@ Her videos "oldest first" are all Android reverse engineering.
 - [ARM Assembly: Lesson 1 (MOV, Exit Syscall)](https://youtu.be/kKtWsuuJEDs)
 - [ARM Assembly: Lesson 2 (ADD, SUB, MUL, set CPSR)](https://youtu.be/xQ--xX9rHeE)
 - [ARM Assembly: Lesson 3 (LDR, STR)](https://youtu.be/fJcdt7WMQCs)
+- [ARM Assembly: Lesson 4 (Logical Operators)](https://youtu.be/IJw1wm3Kb0Q)
+- [ARM Assembly: Lesson 5 (Signed Number Conversions)](https://youtu.be/9wvzEOq1imo)
 - [ARM Assembly: Lesson 6 (Shift and Rotate)](https://youtu.be/aGJm3fuKLhA)
 - [ARM Assembly: Lesson 7 (CMP)](https://youtu.be/nDGy-PQ1gVs)
 - [ARM Assembly: Lesson 8 (Branching)](https://youtu.be/VeDPnWA_GVI)
@@ -63,9 +66,11 @@ Her videos "oldest first" are all Android reverse engineering.
 - [Where's the native code? (In Android)](https://youtu.be/joM3YIVyjnc)
 - [Ghidra Analysis of Android Native Code](https://youtu.be/ODWBEtZHB6Q)
 - [Android Undercover: Native Code Translation for AV Stealth - DC615/DEF CON Nashville](https://youtu.be/UcdMx-te2NE)
+- [Translating a Java Method to Native C++ (Android)](https://youtu.be/87uMi7L-3Hc)
 
 # topic: Conference
 - [Android Undercover: Native Code Translation for AV Stealth - DC615/DEF CON Nashville](https://youtu.be/UcdMx-te2NE)
+- [BSides Seattle 2023: Unmasking the Godfather](https://youtu.be/2cx1K6z7YTQ)
 
 # topic: JADX, JADXecute
 - [JADXecute: Dynamic Scripting For JADX](https://youtu.be/g0r3C1iEeBg)

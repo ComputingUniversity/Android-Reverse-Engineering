@@ -1,2 +1,3 @@
 - [Finding Potentially Malicious Android Code with Quark](https://youtu.be/q1rftlZapMA)
 - [Deconstructing the Android Manifest](https://youtu.be/gs-QNku8xYw)
+- [Writing a custom Android Decryptor in Java](https://youtu.be/198D2jsNWic)

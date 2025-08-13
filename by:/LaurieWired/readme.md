@@ -1,0 +1,2 @@
+- [Finding Potentially Malicious Android Code with Quark](https://youtu.be/q1rftlZapMA)
+- [Deconstructing the Android Manifest](https://youtu.be/gs-QNku8xYw)
